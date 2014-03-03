@@ -1,0 +1,12 @@
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\AntAnimation.exe
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\AntAnimation.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\obj\x86\Debug\AntAnimation.csprojResolveAssemblyReference.cache
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\obj\x86\Debug\AntAnimation.exe
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\obj\x86\Debug\AntAnimation.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\Content\ant.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\Content\antUp.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\Content\cube.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\Content\ants.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\Content\ants2.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntAnimation\AntAnimation\AntAnimation\bin\x86\Debug\Content\Arial.xnb
