@@ -1,0 +1,19 @@
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\bin\Debug\AntOnCube.exe
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\bin\Debug\AntOnCube.pdb
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\obj\x86\Debug\AntOnCube.Form1.resources
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\obj\x86\Debug\AntOnCube.Properties.Resources.resources
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\obj\x86\Debug\AntOnCube.csproj.GenerateResource.Cache
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\obj\x86\Debug\AntOnCube.exe
+C:\Users\Sijun\AppData\Local\Temporary Projects\AntOnCube\obj\x86\Debug\AntOnCube.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.exe
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\bin\Debug\AntOnCube.exe
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\bin\Debug\AntOnCube.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.Form1.resources
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.Properties.Resources.resources
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.csproj.GenerateResource.Cache
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.csprojResolveAssemblyReference.cache
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\bin\Debug\AntOnCube.exe.manifest
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\bin\Debug\AntOnCube.application
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.exe.manifest
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\AntOnCube\AntOnCube\obj\x86\Debug\AntOnCube.application
