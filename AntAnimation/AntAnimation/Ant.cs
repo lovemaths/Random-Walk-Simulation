@@ -19,7 +19,7 @@ namespace AntAnimation
         
         public static int moves = 30;
         static Vector2 onestep = new Vector2(0, 0);
-        static Random rand = new Random();//new Random(Guid.NewGuid().GetHashCode());
+        static Random rand = new Random(Guid.NewGuid().GetHashCode());
         
         public static void Run()
         {
@@ -36,7 +36,7 @@ namespace AntAnimation
                 onestep = new Vector2(0, 0);
                 curPosition = 0;
                 Data.antPosition = Data.pos[0];
-                rand = new Random();//new Random(Guid.NewGuid().GetHashCode());
+                rand = new Random(Guid.NewGuid().GetHashCode());
                 Data.numAnts++;
                 Data.average = (float)Data.totalsteps / (float)Data.numAnts;
                 Thread.Sleep(1500);

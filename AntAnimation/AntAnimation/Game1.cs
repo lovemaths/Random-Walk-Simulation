@@ -103,17 +103,21 @@ namespace AntAnimation
 
             spriteBatch.Draw(cube, new Vector2(0, 0), Color.White);
             spriteBatch.Draw(ant, Data.antPosition, Color.White);
-            spriteBatch.DrawString(Arial, "Steps:", new Vector2(600, 50), Color.Black, 0F,
+            spriteBatch.DrawString(Arial, "Time (seconds):", new Vector2(600, 50), Color.Black, 0F,
+                    new Vector2(0, 0), 1F, SpriteEffects.None, 0);
+            spriteBatch.DrawString(Arial, "Puzzle Demo, Sijun Liu", new Vector2(10, 7), Color.DarkBlue, 0F,
+                    new Vector2(0, 0), 0.8F, SpriteEffects.None, 0);
+            spriteBatch.DrawString(Arial, "----------------------", new Vector2(10, 15), Color.DarkBlue, 0F,
                     new Vector2(0, 0), 1F, SpriteEffects.None, 0);
             
             for (int i = Math.Max(1,Data.numAnts-15); i <= Data.numAnts; i++)
             {
-                spriteBatch.DrawString(Arial, "Ant " + i + " uses " + Data.steps[i - 1] + " steps.", 
+                spriteBatch.DrawString(Arial, "Ant " + i + " uses " + Data.steps[i - 1] + " seconds.", 
                     new Vector2(600, 90 + 20 * (i - Math.Max(1, Data.numAnts - 15))), Color.Black, 0F,
                     new Vector2(0, 0), 1F, SpriteEffects.None, 0);
             }
 
-            spriteBatch.DrawString(Arial, "Average Steps: "+Data.average.ToString("n3"), new Vector2(600, 550), Color.Black, 0F,
+            spriteBatch.DrawString(Arial, "Average Time: "+Data.average.ToString("n3")+"s", new Vector2(600, 550), Color.Black, 0F,
                     new Vector2(0, 0), 1F, SpriteEffects.None, 0);
             spriteBatch.DrawString(Arial, "Move rate: " + Ant.moves +"\n Larger rate = Slower", new Vector2(120, 540), Color.Black, 0F,
                     new Vector2(0, 0), 1F, SpriteEffects.None, 0);
